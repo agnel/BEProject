@@ -2,9 +2,9 @@
 %   Description: Master Program For The Project
 %   Tags: main, master
 %   Author: Agnel Waghela
-%   Version: 2.0
-%   Date: 20 February, 2014
-%   Dependencies: STE, ZCR, Cepstrum
+%   Version: 2.1
+%   Date: 4th March, 2014
+%   Dependencies: STE, ZCR, STFF
 
 %% Plotting the Original Signal
 [y, Fs] = audioread('c.wav'); % 'wavread' will be removed from future releases, so 'audioread' is used
